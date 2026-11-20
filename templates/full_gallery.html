@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}Full Image Gallery - AyurvedaPlants{% endblock %}
+
+{% block content %}
+<h1 id="gallery-title">Full Image Gallery</h1>
+
+<div class="gallery-grid" id="gallery-grid">
+    <p id="plantLoadingMessage" class="loading-message">Loading images...</p>
+</div>
+
+<a href="" class="back-button">← Back to Details</a>
+{% endblock content %}
+
+{% block extra_scripts %}
+<script src="{{ url_for('static', filename='js/plants.js') }}"></script>
+{% endblock extra_scripts %}

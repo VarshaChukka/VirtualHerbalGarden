@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}Disease Detail - AyurvedaPlants{% endblock %}
+
+{% block content %}
+<section class="detail-section" id="diseaseDetailContainer">
+    <p id="diseaseLoadingMessage" class="loading-message">Loading disease details...</p>
+    <!-- Disease details will be populated here by diseases.js -->
+</section>
+{% endblock content %}
+
+{% block extra_scripts %}
+<script src="{{ url_for('static', filename='js/diseases.js') }}"></script>
+{% endblock extra_scripts %}

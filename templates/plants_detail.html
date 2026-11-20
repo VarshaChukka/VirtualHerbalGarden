@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+
+{% block title %}Plant Detail - AyurvedaPlants{% endblock %}
+
+{% block content %}
+<h1 id="plant-full-name"></h1>
+<div class="plant-info">
+    <p id="plantLoadingMessage" class="loading-message">Loading plant details...</p>
+    <section>
+        <p><strong>Description:</strong> <span id="plant-description-text"></span></p>
+        <p><strong>Uses:</strong> <span id="plant-uses-list"></span></p>
+    </section>
+
+    <section>
+        <h2>Growth Info</h2>
+        <ul id="growth-info-list"></ul>
+    </section>
+
+    <section>
+        <h2>Properties & Composition</h2>
+        <p><strong>Chemical Constituents:</strong> <span id="chemical-constituents"></span></p>
+        <p><strong>Medicinal Properties:</strong> <span id="medicinal-properties"></span></p>
+        <p><strong>Health Benefits:</strong> <span id="health-benefits"></span></p>
+    </section>
+
+    <section>
+        <h2>Usage Details</h2>
+        <p><strong>Parts Used:</strong> <span id="parts-used"></span></p>
+        <p><strong>Preparation Methods:</strong> <span id="preparation-methods"></span></p>
+        <p><strong>Dosage:</strong> <span id="dosage"></span></p>
+        <p><strong>Side Effects:</strong> <span id="side-effects"></span></p>
+        <p><strong>Treats:</strong> <span id="treats"></span></p>
+    </section>
+
+    <section>
+        <h2>Scientific Equations</h2>
+        <ul id="equations-list"></ul>
+    </section>
+
+    <h2>Gallery</h2>
+    <div class="gallery-preview" id="plant-gallery"></div>
+</div>
+{% endblock content %}
+
+{% block extra_scripts %}
+<script src="{{ url_for('static', filename='js/plants.js') }}"></script>
+{% endblock extra_scripts %}

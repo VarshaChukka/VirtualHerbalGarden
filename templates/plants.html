@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}Plants - AyurvedaPlants{% endblock %}
+
+{% block content %}
+<section class="plant-container" id="plantContainer">
+    <p id="plantLoadingMessage" class="loading-message">Loading plants...</p>
+    <!-- Plant cards will be inserted here by plants.js -->
+</section>
+{% endblock content %}
+
+{% block extra_scripts %}
+<script src="{{ url_for('static', filename='js/plants.js') }}"></script>
+{% endblock extra_scripts %}
