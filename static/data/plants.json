@@ -1,0 +1,2122 @@
+[
+    {
+      "plant_name": "Aloevera",
+      "botanical_name": "Botanical name of Aloevera",
+      "common_names": [
+        "Aloevera"
+      ],
+      "description": "Aloevera is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Aloevera/img1.jpg",
+        "/images/Aloevera/img2.jpg",
+        "/images/Aloevera/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Amla",
+      "botanical_name": "Botanical name of Amla",
+      "common_names": [
+        "Amla"
+      ],
+      "description": "Amla is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Amla/img1.jpg",
+        "/images/Amla/img2.jpg",
+        "/images/Amla/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Amruta Balli",
+      "botanical_name": "Botanical name of Amruta Balli",
+      "common_names": [
+        "Amruta Balli"
+      ],
+      "description": "Amruta Balli is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Amruta_Balli/img1.jpg",
+        "/images/Amruta_Balli/img2.jpg",
+        "/images/Amruta_Balli/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Arali",
+      "botanical_name": "Botanical name of Arali",
+      "common_names": [
+        "Arali"
+      ],
+      "description": "Arali is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Arali/img1.jpg",
+        "/images/Arali/img2.jpg",
+        "/images/Arali/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Ashoka",
+      "botanical_name": "Botanical name of Ashoka",
+      "common_names": [
+        "Ashoka"
+      ],
+      "description": "Ashoka is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Ashoka/img1.jpg",
+        "/images/Ashoka/img2.jpg",
+        "/images/Ashoka/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Ashwagandha",
+      "botanical_name": "Botanical name of Ashwagandha",
+      "common_names": [
+        "Ashwagandha"
+      ],
+      "description": "Ashwagandha is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Ashwagandha/img1.jpg",
+        "/images/Ashwagandha/img2.jpg",
+        "/images/Ashwagandha/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Avacado",
+      "botanical_name": "Botanical name of Avacado",
+      "common_names": [
+        "Avacado"
+      ],
+      "description": "Avacado is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Avacado/img1.jpg",
+        "/images/Avacado/img2.jpg",
+        "/images/Avacado/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Bamboo",
+      "botanical_name": "Botanical name of Bamboo",
+      "common_names": [
+        "Bamboo"
+      ],
+      "description": "Bamboo is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Bamboo/img1.jpg",
+        "/images/Bamboo/img2.jpg",
+        "/images/Bamboo/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Basale",
+      "botanical_name": "Botanical name of Basale",
+      "common_names": [
+        "Basale"
+      ],
+      "description": "Basale is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Basale/img1.jpg",
+        "/images/Basale/img2.jpg",
+        "/images/Basale/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Betel",
+      "botanical_name": "Botanical name of Betel",
+      "common_names": [
+        "Betel"
+      ],
+      "description": "Betel is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Betel/img1.jpg",
+        "/images/Betel/img2.jpg",
+        "/images/Betel/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Betel Nut",
+      "botanical_name": "Botanical name of Betel Nut",
+      "common_names": [
+        "Betel Nut"
+      ],
+      "description": "Betel Nut is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Betel_Nut/img1.jpg",
+        "/images/Betel_Nut/img2.jpg",
+        "/images/Betel_Nut/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Brahmi",
+      "botanical_name": "Botanical name of Brahmi",
+      "common_names": [
+        "Brahmi"
+      ],
+      "description": "Brahmi is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Brahmi/img1.jpg",
+        "/images/Brahmi/img2.jpg",
+        "/images/Brahmi/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Castor",
+      "botanical_name": "Botanical name of Castor",
+      "common_names": [
+        "Castor"
+      ],
+      "description": "Castor is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Castor/img1.jpg",
+        "/images/Castor/img2.jpg",
+        "/images/Castor/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Curry Leaf",
+      "botanical_name": "Botanical name of Curry Leaf",
+      "common_names": [
+        "Curry Leaf"
+      ],
+      "description": "Curry Leaf is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Curry_Leaf/img1.jpg",
+        "/images/Curry_Leaf/img2.jpg",
+        "/images/Curry_Leaf/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Doddapatre",
+      "botanical_name": "Botanical name of Doddapatre",
+      "common_names": [
+        "Doddapatre"
+      ],
+      "description": "Doddapatre is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Doddapatre/img1.jpg",
+        "/images/Doddapatre/img2.jpg",
+        "/images/Doddapatre/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Ekka",
+      "botanical_name": "Botanical name of Ekka",
+      "common_names": [
+        "Ekka"
+      ],
+      "description": "Ekka is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Ekka/img1.jpg",
+        "/images/Ekka/img2.jpg",
+        "/images/Ekka/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Ganike",
+      "botanical_name": "Botanical name of Ganike",
+      "common_names": [
+        "Ganike"
+      ],
+      "description": "Ganike is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Ganike/img1.jpg",
+        "/images/Ganike/img2.jpg",
+        "/images/Ganike/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Gauva",
+      "botanical_name": "Botanical name of Gauva",
+      "common_names": [
+        "Gauva"
+      ],
+      "description": "Gauva is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Gauva/img1.jpg",
+        "/images/Gauva/img2.jpg",
+        "/images/Gauva/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Geranium",
+      "botanical_name": "Botanical name of Geranium",
+      "common_names": [
+        "Geranium"
+      ],
+      "description": "Geranium is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Geranium/img1.jpg",
+        "/images/Geranium/img2.jpg",
+        "/images/Geranium/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Henna",
+      "botanical_name": "Botanical name of Henna",
+      "common_names": [
+        "Henna"
+      ],
+      "description": "Henna is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Henna/img1.jpg",
+        "/images/Henna/img2.jpg",
+        "/images/Henna/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Hibiscus",
+      "botanical_name": "Botanical name of Hibiscus",
+      "common_names": [
+        "Hibiscus"
+      ],
+      "description": "Hibiscus is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Hibiscus/img1.jpg",
+        "/images/Hibiscus/img2.jpg",
+        "/images/Hibiscus/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Honge",
+      "botanical_name": "Botanical name of Honge",
+      "common_names": [
+        "Honge"
+      ],
+      "description": "Honge is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Honge/img1.jpg",
+        "/images/Honge/img2.jpg",
+        "/images/Honge/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Insulin",
+      "botanical_name": "Botanical name of Insulin",
+      "common_names": [
+        "Insulin"
+      ],
+      "description": "Insulin is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Insulin/img1.jpg",
+        "/images/Insulin/img2.jpg",
+        "/images/Insulin/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Jasmine",
+      "botanical_name": "Botanical name of Jasmine",
+      "common_names": [
+        "Jasmine"
+      ],
+      "description": "Jasmine is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Jasmine/img1.jpg",
+        "/images/Jasmine/img2.jpg",
+        "/images/Jasmine/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Lemon",
+      "botanical_name": "Botanical name of Lemon",
+      "common_names": [
+        "Lemon"
+      ],
+      "description": "Lemon is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Lemon/img1.jpg",
+        "/images/Lemon/img2.jpg",
+        "/images/Lemon/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Lemon grass",
+      "botanical_name": "Botanical name of Lemon grass",
+      "common_names": [
+        "Lemon Grass"
+      ],
+      "description": "Lemon Grass is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Lemon_grass/img1.jpg",
+        "/images/Lemon_grass/img2.jpg",
+        "/images/Lemon_grass/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Mango",
+      "botanical_name": "Botanical name of Mango",
+      "common_names": [
+        "Mango"
+      ],
+      "description": "Mango is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Mango/img1.jpg",
+        "/images/Mango/img2.jpg",
+        "/images/Mango/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Mint",
+      "botanical_name": "Botanical name of Mint",
+      "common_names": [
+        "Mint"
+      ],
+      "description": "Mint is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Mint/img1.jpg",
+        "/images/Mint/img2.jpg",
+        "/images/Mint/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Nagadali",
+      "botanical_name": "Botanical name of Nagadali",
+      "common_names": [
+        "Nagadali"
+      ],
+      "description": "Nagadali is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Nagadali/img1.jpg",
+        "/images/Nagadali/img2.jpg",
+        "/images/Nagadali/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Neem",
+      "botanical_name": "Botanical name of Neem",
+      "common_names": [
+        "Neem"
+      ],
+      "description": "Neem is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Neem/img1.jpg",
+        "/images/Neem/img2.jpg",
+        "/images/Neem/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Nithyapushpa",
+      "botanical_name": "Botanical name of Nithyapushpa",
+      "common_names": [
+        "Nithyapushpa"
+      ],
+      "description": "Nithyapushpa is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Nithyapushpa/img1.jpg",
+        "/images/Nithyapushpa/img2.jpg",
+        "/images/Nithyapushpa/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Nooni",
+      "botanical_name": "Botanical name of Nooni",
+      "common_names": [
+        "Nooni"
+      ],
+      "description": "Nooni is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Nooni/img1.jpg",
+        "/images/Nooni/img2.jpg",
+        "/images/Nooni/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Pappaya",
+      "botanical_name": "Botanical name of Pappaya",
+      "common_names": [
+        "Pappaya"
+      ],
+      "description": "Pappaya is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Pappaya/img1.jpg",
+        "/images/Pappaya/img2.jpg",
+        "/images/Pappaya/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Pepper",
+      "botanical_name": "Botanical name of Pepper",
+      "common_names": [
+        "Pepper"
+      ],
+      "description": "Pepper is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Pepper/img1.jpg",
+        "/images/Pepper/img2.jpg",
+        "/images/Pepper/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Pomegranate",
+      "botanical_name": "Botanical name of Pomegranate",
+      "common_names": [
+        "Pomegranate"
+      ],
+      "description": "Pomegranate is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Pomegranate/img1.jpg",
+        "/images/Pomegranate/img2.jpg",
+        "/images/Pomegranate/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Raktachandini",
+      "botanical_name": "Botanical name of Raktachandini",
+      "common_names": [
+        "Raktachandini"
+      ],
+      "description": "Raktachandini is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Raktachandini/img1.jpg",
+        "/images/Raktachandini/img2.jpg",
+        "/images/Raktachandini/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Rose",
+      "botanical_name": "Botanical name of Rose",
+      "common_names": [
+        "Rose"
+      ],
+      "description": "Rose is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Rose/img1.jpg",
+        "/images/Rose/img2.jpg",
+        "/images/Rose/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Sapota",
+      "botanical_name": "Botanical name of Sapota",
+      "common_names": [
+        "Sapota"
+      ],
+      "description": "Sapota is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Sapota/img1.jpg",
+        "/images/Sapota/img2.jpg",
+        "/images/Sapota/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Tulasi",
+      "botanical_name": "Botanical name of Tulasi",
+      "common_names": [
+        "Tulasi"
+      ],
+      "description": "Tulasi is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Tulasi/img1.jpg",
+        "/images/Tulasi/img2.jpg",
+        "/images/Tulasi/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    },
+    {
+      "plant_name": "Wood sorel",
+      "botanical_name": "Botanical name of Wood sorel",
+      "common_names": [
+        "Wood Sorel"
+      ],
+      "description": "Wood Sorel is a valuable plant in traditional medicine, widely known for its unique properties. It is cultivated in various regions and used for a variety of therapeutic applications in Ayurveda. This plant adapts to a range of climates and requires minimal maintenance. Its leaves, roots, seeds, or bark are often used in home remedies and commercial herbal formulations. Rich in bioactive compounds, it offers significant benefits to the skin, digestion, immunity, and more. It is often found in household gardens or grown commercially. Known for its preventive and curative abilities, it is a key part of holistic healing practices. It also contributes to ecological balance and air purification. The plant continues to be studied for its pharmacological effects.",
+      "growth_info": {
+        "soil": "Loamy, well-drained soil",
+        "climate": "Tropical and subtropical",
+        "watering": "Moderate, 2-3 times a week",
+        "sunlight": "Partial to full sunlight",
+        "harvest_time": "3-6 months after planting"
+      },
+      "chemical_constituents": [
+        "Example Chemical A",
+        "Example Chemical B"
+      ],
+      "medicinal_properties": [
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Immunomodulatory"
+      ],
+      "health_benefits": [
+        "Supports digestion",
+        "Boosts immunity",
+        "Improves skin health"
+      ],
+      "parts_used": [
+        "Leaves",
+        "Roots"
+      ],
+      "preparation_methods": [
+        "Infusion",
+        "Powder",
+        "Paste"
+      ],
+      "dosage": "1-2 tsp per day, or as directed by an Ayurvedic practitioner",
+      "side_effects": "None significant in moderate doses; consult for specific conditions",
+      "treats": [
+        "Common Cold",
+        "Skin Issues",
+        "Digestive Problems"
+      ],
+      "image_paths": [
+        "/images/Wood_sorel/img1.jpg",
+        "/images/Wood_sorel/img2.jpg",
+        "/images/Wood_sorel/img3.jpg"
+      ],
+      "equations": [
+        "Leaf + Water \u2192 Boil \u2192 Strain \u2192 Use as decoction"
+      ]
+    }
+  ]

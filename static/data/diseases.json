@@ -1,0 +1,1038 @@
+[
+    {
+    "disease_name": "Common Cold",
+    "category": "Respiratory",
+    "description": "Common Cold is a viral infection of the upper respiratory tract caused primarily by rhinoviruses. It is characterized by sneezing, nasal congestion, sore throat, and cough. Though generally mild, it can affect daily activities and typically lasts 7–10 days. It is highly contagious and spreads through air droplets and contaminated surfaces.",
+    "causes": [
+      "Viral infections (primarily rhinoviruses)",
+      "Weakened immunity",
+      "Exposure to cold or damp weather",
+      "Sudden climate changes",
+      "Lack of sleep and poor diet"
+    ],
+    "symptoms": [
+      "Sneezing",
+      "Runny or stuffy nose",
+      "Sore throat",
+      "Cough",
+      "Mild fever",
+      "Fatigue",
+      "Watery eyes",
+      "Headache"
+    ],
+    "ayurvedic_view": "According to Ayurveda, Common Cold is often due to an imbalance in the Kapha and Vata doshas. Kapha increases mucus production, while Vata aggravates dryness and irritation in the respiratory tract.",
+    "preventive_measures": [
+      "Avoid exposure to cold wind and sudden temperature changes",
+      "Keep the body warm, especially feet and chest",
+      "Consume warm water and herbal teas (Tulsi, Ginger)",
+      "Perform steam inhalation regularly",
+      "Improve immunity with Amla and Chyawanprash"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Tulsi",
+        "botanical_name": "Ocimum sanctum",
+        "usage": "Boil 5–6 Tulsi leaves in water. Add a little ginger and honey. Drink twice daily.",
+        "chemical_constituents": ["Eugenol", "Rosmarinic acid", "Ursolic acid"],
+        "medicinal_properties": ["Antiviral", "Immunomodulatory", "Expectorant"]
+      },
+      {
+        "plant_name": "Ginger",
+        "botanical_name": "Zingiber officinale",
+        "usage": "Mix ginger juice with honey (1:1) and consume twice a day.",
+        "chemical_constituents": ["Gingerol", "Shogaol", "Zingerone"],
+        "medicinal_properties": ["Anti-inflammatory", "Decongestant", "Antioxidant"]
+      },
+      {
+        "plant_name": "Amla",
+        "botanical_name": "Phyllanthus emblica",
+        "usage": "Take 10-15 ml of Amla juice on an empty stomach in the morning.",
+        "chemical_constituents": ["Ascorbic acid (Vitamin C)", "Gallic acid", "Ellagic acid"],
+        "medicinal_properties": ["Immunobooster", "Antioxidant", "Rejuvenative"]
+      }
+    ],
+    "treatment_methods": [
+      "Tulsi-ginger tea with honey for sore throat and cough",
+      "Amla juice or powder daily to boost immunity",
+      "Steam inhalation with eucalyptus oil or tulsi leaves",
+      "Gargling with warm saline water"
+    ],
+    "possible_side_effects": [
+      "Overuse of ginger may cause heartburn",
+      "Rare allergic reactions to Tulsi or Amla",
+      "Avoid if allergic to any of the herbs used"
+    ],
+    "images": [
+      "images/common_cold/cold_child.jpg",
+      "images/common_cold/common_cold_symptoms.png",
+      "images/common_cold/herbal_tea.jpg"
+    ]
+  },
+
+
+
+
+
+
+
+
+  {
+    "disease_name": "Influenza (Flu)",
+    "category": "Respiratory",
+    "description": "Influenza, commonly known as the flu, is a contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness, and at times can lead to death. The flu is different from a common cold. The flu comes on suddenly. People who have the flu often feel some or all of these symptoms: fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches, and fatigue. It spreads through air droplets from coughing or sneezing.",
+    "causes": [
+      "Influenza viruses (Type A, B, C, and D)",
+      "Weakened immune system",
+      "Close contact with infected individuals",
+      "Seasonal changes (typically colder months)"
+    ],
+    "symptoms": [
+      "Fever or feeling feverish/chills",
+      "Cough",
+      "Sore throat",
+      "Runny or stuffy nose",
+      "Muscle or body aches",
+      "Headaches",
+      "Fatigue (tiredness)",
+      "Vomiting and diarrhea (more common in children)"
+    ],
+    "ayurvedic_view": "In Ayurveda, influenza is often seen as a result of an imbalance in all three doshas (Vata, Pitta, and Kapha), with a prominent role of Vata due to its rapid onset and body aches. Accumulated Ama (toxins) and weakened Agni (digestive fire) are also contributing factors.",
+    "preventive_measures": [
+      "Maintain good hygiene, including frequent hand washing",
+      "Avoid touching eyes, nose, and mouth",
+      "Boost immunity through a healthy diet and lifestyle",
+      "Avoid crowded places during flu season",
+      "Get adequate rest and sleep"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Guduchi (Giloy)",
+        "botanical_name": "Tinospora cordifolia",
+        "usage": "Consume Guduchi powder (1-3g) with warm water or as a decoction daily.",
+        "chemical_constituents": ["Berberine", "Tinocordifolioside", "Isocolumbin"],
+        "medicinal_properties": ["Immunomodulatory", "Antipyretic", "Ant-inflammatory"]
+      },
+      {
+        "plant_name": "Licorice (Yashtimadhu)",
+        "botanical_name": "Glycyrrhiza glabra",
+        "usage": "Chew on a small piece of licorice root or use as a tea for sore throat.",
+        "chemical_constituents": ["Glycyrrhizin", "Flavonoids", "Saponins"],
+        "medicinal_properties": ["Antiviral", "Expectorant", "Anti-inflammatory"]
+      },
+      {
+        "plant_name": "Vasaka",
+        "botanical_name": "Adhatoda vasica",
+        "usage": "Prepare a decoction of Vasaka leaves and consume twice daily for cough and congestion.",
+        "chemical_constituents": ["Vasicine", "Vasicinone", "Adhatodic acid"],
+        "medicinal_properties": ["Bronchodilator", "Expectorant", "Anti-inflammatory"]
+      }
+    ],
+    "treatment_methods": [
+      "Herbal teas with ginger, black pepper, and tulsi",
+      "Steam inhalation with ajwain (carom seeds) or eucalyptus oil",
+      "Light and easily digestible diet (khichdi, vegetable soups)",
+      "Warm gargles with turmeric and salt water",
+      "Rest and hydration"
+    ],
+    "possible_side_effects": [
+      "Excessive use of licorice may lead to high blood pressure in some individuals",
+      "Guduchi may interact with certain medications; consult a physician if on medication",
+      "Rare allergic reactions to any of the herbs"
+    ],
+    "images": [
+      "images/influenza/flu_person.jpg",
+      "images/influenza/influenza_virus.png",
+      "images/influenza/giloy_plant.jpg"
+    ]
+  },
+  {
+    "disease_name": "Allergic Rhinitis (Hay Fever)",
+    "category": "Respiratory/Allergic",
+    "description": "Allergic Rhinitis, commonly known as hay fever, is an allergic reaction to airborne allergens such as pollen, dust mites, mold spores, or pet dander. It primarily affects the nose and eyes, causing symptoms similar to a common cold, but it is not caused by a virus. It is characterized by sneezing, runny nose, nasal congestion, and itchy, watery eyes.",
+    "causes": [
+      "Exposure to airborne allergens (pollen, dust mites, pet dander, mold)",
+      "Genetic predisposition to allergies",
+      "Environmental pollutants and irritants"
+    ],
+    "symptoms": [
+      "Sneezing (often in bouts)",
+      "Runny nose (clear, watery discharge)",
+      "Stuffy or congested nose",
+      "Itchy nose, eyes, throat, or roof of mouth",
+      "Watery, red, or swollen eyes",
+      "Postnasal drip",
+      "Cough (due to postnasal drip)",
+      "Fatigue (due to disturbed sleep)"
+    ],
+    "ayurvedic_view": "Ayurveda views Allergic Rhinitis as primarily a Kapha disorder, aggravated by Vata. The accumulation of Ama (toxins) in the respiratory channels due to impaired digestion and a weakened immune system is a key factor. Increased Pitta can also lead to burning sensations and redness.",
+    "preventive_measures": [
+      "Identify and avoid known allergens",
+      "Keep windows closed during high pollen seasons",
+      "Use air purifiers at home",
+      "Wash bedding and curtains regularly to reduce dust mites",
+      "Practice Nasya (nasal oiling) with Anu Taila or sesame oil"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Turmeric (Haldi)",
+        "botanical_name": "Curcuma longa",
+        "usage": "Mix 1/2 teaspoon of turmeric powder with warm milk or water and drink daily.",
+        "chemical_constituents": ["Curcumin", "Volatile oils", "Resins"],
+        "medicinal_properties": ["Anti-inflammatory", "Antihistamine", "Immunomodulatory"]
+      },
+      {
+        "plant_name": "Neem",
+        "botanical_name": "Azadirachta indica",
+        "usage": "Take Neem leaf powder or capsules as directed, or use a diluted Neem oil for nasal cleansing.",
+        "chemical_constituents": ["Azadirachtin", "Nimbidin", "Quercetin"],
+        "medicinal_properties": ["Anti-allergic", "Anti-inflammatory", "Antimicrobial"]
+      },
+      {
+        "plant_name": "Black Pepper (Maricha)",
+        "botanical_name": "Piper nigrum",
+        "usage": "Add freshly ground black pepper to food or make a tea with ginger and honey.",
+        "chemical_constituents": ["Piperine", "Chavicine", "Volatile oils"],
+        "medicinal_properties": ["Decongestant", "Bioenhancer", "Anti-inflammatory"]
+      }
+    ],
+    "treatment_methods": [
+      "Neti pot with saline water for nasal cleansing",
+      "Herbal formulations containing Trikatu (ginger, black pepper, long pepper)",
+      "Dietary changes to reduce Kapha-aggravating foods (dairy, cold foods)",
+      "Pranayama (breathing exercises) like Nadi Shodhana",
+      "Daily consumption of warm water with honey and lemon"
+    ],
+    "possible_side_effects": [
+      "Excessive consumption of turmeric may cause stomach upset in some",
+      "Neem can be strong; use with caution, especially during pregnancy",
+      "Consult an Ayurvedic practitioner for personalized dosages"
+    ],
+    "images": [
+      "images/allergic_rhinitis/sneezing_person.jpg",
+      "images/allergic_rhinitis/pollen_grains.png",
+      "images/allergic_rhinitis/neti_pot.jpg"
+    ]
+  },
+  {
+    "disease_name": "Bronchial Asthma",
+    "category": "Respiratory",
+    "description": "Bronchial Asthma is a chronic inflammatory disease of the airways characterized by recurrent episodes of wheezing, breathlessness, chest tightness, and coughing, particularly at night or in the early morning. These symptoms are usually associated with widespread but variable airflow obstruction within the lung that is often reversible either spontaneously or with treatment.",
+    "causes": [
+      "Genetic predisposition",
+      "Environmental allergens (pollen, dust mites, pet dander, mold)",
+      "Respiratory infections (viral)",
+      "Irritants (smoke, pollution, strong odors)",
+      "Exercise",
+      "Stress and emotional factors",
+      "Certain medications"
+    ],
+    "symptoms": [
+      "Shortness of breath",
+      "Wheezing (a whistling sound when breathing)",
+      "Coughing (especially at night or early morning)",
+      "Chest tightness",
+      "Difficulty sleeping due to coughing or wheezing",
+      "Fatigue"
+    ],
+    "ayurvedic_view": "In Ayurveda, Asthma (Tamaka Shwasa) is primarily a Kapha-Vata disorder. Aggravated Kapha blocks the Vata channels in the respiratory system, leading to constriction and accumulation of mucus. Impaired Agni (digestive fire) and Ama (toxins) also play a crucial role in its pathogenesis.",
+    "preventive_measures": [
+      "Identify and avoid asthma triggers",
+      "Maintain a clean and dust-free environment",
+      "Practice yoga and pranayama regularly to improve lung capacity",
+      "Consume warm, freshly cooked food; avoid cold and heavy meals",
+      "Avoid exposure to cold and damp weather",
+      "Regularly clean air filters and humidifiers"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Vasa (Malabar Nut)",
+        "botanical_name": "Adhatoda vasica",
+        "usage": "Take Vasa leaf juice with honey, or as a decoction for cough and breathing difficulties.",
+        "chemical_constituents": ["Vasicine", "Vasicinone", "Adhatodic acid"],
+        "medicinal_properties": ["Bronchodilator", "Expectorant", "Anti-inflammatory"]
+      },
+      {
+        "plant_name": "Pushkarmool",
+        "botanical_name": "Inula racemosa",
+        "usage": "Use Pushkarmool powder with honey or warm water, or as part of Ayurvedic formulations.",
+        "chemical_constituents": ["Alantolactone", "Isoalantolactone", "Sesquiterpene lactones"],
+        "medicinal_properties": ["Bronchodilator", "Anti-allergic", "Anti-inflammatory"]
+      },
+      {
+        "plant_name": "Bharangi",
+        "botanical_name": "Clerodendrum serratum",
+        "usage": "Consume Bharangi root powder or decoction as recommended by an Ayurvedic practitioner.",
+        "chemical_constituents": ["Saponins", "Flavonoids", "Steroids"],
+        "medicinal_properties": ["Anti-asthmatic", "Expectorant", "Anti-inflammatory"]
+      }
+    ],
+    "treatment_methods": [
+      "Panchakarma therapies like Vamana (emesis) and Virechana (purgation) under expert guidance",
+      "Herbal formulations like Sitopaladi Churna, Talisadi Churna, and Swasakasari Rasa",
+      "Warm gargles and steam inhalation",
+      "Light, easily digestible, and warm diet; avoid cold, heavy, and processed foods",
+      "Regular practice of specific yoga asanas and pranayama (e.g., Bhastrika, Kapalabhati)"
+    ],
+    "possible_side_effects": [
+      "Self-medication with strong herbs can be risky; always consult an Ayurvedic doctor.",
+      "Some herbs may interact with conventional medications; inform your doctor.",
+      "Panchakarma therapies require strict adherence to post-therapy regimen."
+    ],
+    "images": [
+      "images/asthma/asthma_patient.jpg",
+      "images/asthma/bronchial_tree.png",
+      "images/asthma/yoga_for_lungs.jpg"
+    ]
+  },
+  {
+    "disease_name": "Type 2 Diabetes Mellitus",
+    "category": "Metabolic/Endocrine",
+    "description": "Type 2 Diabetes Mellitus is a chronic condition that affects the way your body metabolizes sugar (glucose), your body's main source of fuel. With type 2 diabetes, your body either doesn't produce enough insulin, or it resists the effects of insulin. It can lead to serious complications if not managed, including heart disease, nerve damage, kidney disease, and blindness.",
+    "causes": [
+      "Insulin resistance",
+      "Insufficient insulin production by the pancreas",
+      "Genetic predisposition",
+      "Obesity and excess weight",
+      "Physical inactivity",
+      "Poor diet (high in processed foods and sugar)",
+      "Age (risk increases with age)"
+    ],
+    "symptoms": [
+      "Increased thirst",
+      "Frequent urination",
+      "Increased hunger",
+      "Unintended weight loss",
+      "Fatigue",
+      "Blurred vision",
+      "Slow-healing sores",
+      "Frequent infections",
+      "Numbness or tingling in the hands or feet"
+    ],
+    "ayurvedic_view": "In Ayurveda, Type 2 Diabetes (Madhumeha) is primarily a Kapha disorder, often associated with a sedentary lifestyle and improper diet leading to an accumulation of Ama (toxins). It's also linked to imbalances in Meda Dhatu (fat tissue) and Mutra Vaha Srotas (urinary channels).",
+    "preventive_measures": [
+      "Maintain a healthy body weight",
+      "Regular physical activity (at least 30 minutes most days)",
+      "Balanced diet rich in whole grains, fruits, vegetables, and lean proteins",
+      "Limit intake of sugary drinks and processed foods",
+      "Manage stress effectively",
+      "Regular health check-ups and blood sugar monitoring"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Bitter Melon (Karela)",
+        "botanical_name": "Momordica charantia",
+        "usage": "Drink fresh bitter melon juice (30-50 ml) on an empty stomach daily.",
+        "chemical_constituents": ["Charantin", "Polypeptide-p", "Vicine"],
+        "medicinal_properties": ["Hypoglycemic", "Insulin-mimicking", "Antioxidant"]
+      },
+      {
+        "plant_name": "Fenugreek (Methi)",
+        "botanical_name": "Trigonella foenum-graecum",
+        "usage": "Soak 1-2 teaspoons of fenugreek seeds overnight in water and consume in the morning. Or, add fenugreek powder to meals.",
+        "chemical_constituents": ["Saponins", "Fiber (galactomannan)", "Alkaloids"],
+        "medicinal_properties": ["Hypoglycemic", "Digestive", "Cholesterol-lowering"]
+      },
+      {
+        "plant_name": "Gymnema (Gudmar)",
+        "botanical_name": "Gymnema sylvestre",
+        "usage": "Take Gymnema leaf powder or capsules as directed, known for 'sugar destroying' properties.",
+        "chemical_constituents": ["Gymnemic acids", "Saponins", "Anthraquinones"],
+        "medicinal_properties": ["Anti-diabetic", "Appetite suppressant", "Sweetness inhibitor"]
+      }
+    ],
+    "treatment_methods": [
+      "Dietary management (low glycemic index foods, high fiber)",
+      "Regular exercise tailored to individual capacity",
+      "Ayurvedic formulations like Chandraprabha Vati, Shilajit, and Karela Jamun juice",
+      "Stress reduction techniques (meditation, yoga)",
+      "Panchakarma therapies like Virechana (purgation) under expert supervision"
+    ],
+    "possible_side_effects": [
+      "Bitter melon can cause hypoglycemia if taken with other blood sugar lowering medications",
+      "Fenugreek may cause digestive upset or allergic reactions in some individuals",
+      "Always consult an Ayurvedic practitioner before starting herbal treatments, especially if on conventional medication."
+    ],
+    "images": [
+      "images/type2_diabetes/blood_sugar_monitor.jpg",
+      "images/type2_diabetes/healthy_plate.jpg",
+      "images/type2_diabetes/bitter_melon.jpg"
+    ]
+  },
+  {
+    "disease_name": "Hypertension (High Blood Pressure)",
+    "category": "Cardiovascular",
+    "description": "Hypertension, or high blood pressure, is a common condition in which the long-term force of the blood against your artery walls is high enough that it may eventually cause health problems, such as heart disease. It often has no symptoms, earning it the nickname 'the silent killer'.",
+    "causes": [
+      "Genetic predisposition",
+      "Obesity",
+      "High sodium intake",
+      "Lack of physical activity",
+      "Excessive alcohol consumption",
+      "Stress",
+      "Smoking",
+      "Certain chronic conditions (e.g., kidney disease, thyroid problems)"
+    ],
+    "symptoms": [
+      "Often asymptomatic (silent killer)",
+      "Headaches (severe)",
+      "Shortness of breath",
+      "Nosebleeds",
+      "Flushing",
+      "Dizziness",
+      "Chest pain (in severe cases)",
+      "Visual changes (in severe cases)"
+    ],
+    "ayurvedic_view": "Ayurveda describes hypertension as primarily a Pitta and Vata imbalance, often associated with vitiation of Rakta Dhatu (blood tissue). Stress, anger, and improper diet contribute to an increase in Pitta, while Vata imbalance can lead to constriction of vessels.",
+    "preventive_measures": [
+      "Maintain a healthy weight",
+      "Adopt a DASH (Dietary Approaches to Stop Hypertension) diet",
+      "Limit sodium intake",
+      "Engage in regular physical activity",
+      "Manage stress through meditation, yoga, or deep breathing",
+      "Limit alcohol consumption and avoid smoking",
+      "Regular blood pressure monitoring"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Arjuna",
+        "botanical_name": "Terminalia arjuna",
+        "usage": "Take Arjuna bark powder (1-3g) with warm water or milk, or as an Ayurvedic formulation for cardiovascular health.",
+        "chemical_constituents": ["Arjunolic acid", "Tannins", "Flavonoids"],
+        "medicinal_properties": ["Cardioprotective", "Antihypertensive", "Antioxidant"]
+      },
+      {
+        "plant_name": "Garlic (Lahsun)",
+        "botanical_name": "Allium sativum",
+        "usage": "Consume 1-2 raw garlic cloves daily or use garlic supplements.",
+        "chemical_constituents": ["Allicin", "Sulfur compounds", "Saponins"],
+        "medicinal_properties": ["Hypotensive", "Cholesterol-lowering", "Antioxidant"]
+      },
+      {
+        "plant_name": "Sarpagandha (Indian Snakeroot)",
+        "botanical_name": "Rauwolfia serpentina",
+        "usage": "Used in traditional Ayurvedic formulations for hypertension (requires expert supervision due to potency and side effects).",
+        "chemical_constituents": ["Reserpine", "Ajmalicine", "Serpentine"],
+        "medicinal_properties": ["Antihypertensive", "Sedative", "Tranquilizing"]
+      }
+    ],
+    "treatment_methods": [
+      "Diet modification (reducing salt, increasing fruits and vegetables)",
+      "Regular physical activity and weight management",
+      "Stress management techniques (yoga, meditation)",
+      "Ayurvedic formulations like Sarpagandha Vati, Punarnavadi Mandur",
+      "Abhyanga (oil massage) with specific oils",
+      "Panchakarma therapies like Virechana and Basti for Pitta/Vata pacification"
+    ],
+    "possible_side_effects": [
+      "Sarpagandha is a potent herb and should only be used under strict medical supervision due to potential side effects like drowsiness and nasal congestion.",
+      "Garlic can thin blood; caution with anticoagulant medications.",
+      "Always consult an Ayurvedic practitioner for proper diagnosis and treatment plan."
+    ],
+    "images": [
+      "images/hypertension/bp_monitor.jpg",
+      "images/hypertension/arjuna_plant.jpg",
+      "images/hypertension/stress_relief.jpg"
+    ]
+  },
+  {
+    "disease_name": "Migraine",
+    "category": "Neurological",
+    "description": "Migraine is a severe type of headache characterized by throbbing pain, usually on one side of the head. It is often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can cause significant pain for hours to days and can be so severe that they interfere with daily activities.",
+    "causes": [
+      "Genetic predisposition",
+      "Hormonal changes (especially in women)",
+      "Stress",
+      "Certain foods and drinks (e.g., aged cheese, red wine, caffeine withdrawal)",
+      "Changes in sleep patterns",
+      "Sensory stimuli (bright lights, loud sounds, strong smells)",
+      "Changes in weather or barometric pressure",
+      "Physical exertion"
+    ],
+    "symptoms": [
+      "Moderate to severe throbbing head pain (often unilateral)",
+      "Nausea and/or vomiting",
+      "Sensitivity to light (photophobia)",
+      "Sensitivity to sound (phonophobia)",
+      "Sensitivity to smell (osmophobia)",
+      "Auras (visual disturbances like flashing lights or zigzag lines)",
+      "Fatigue",
+      "Difficulty concentrating"
+    ],
+    "ayurvedic_view": "In Ayurveda, Migraine (Ardhavabhedaka) is predominantly a Vata and Pitta imbalance. Vata causes the throbbing pain and neurological symptoms, while Pitta contributes to burning sensations, photosensitivity, and irritability. Accumulated Ama can also play a role.",
+    "preventive_measures": [
+      "Identify and avoid migraine triggers",
+      "Maintain a regular sleep schedule",
+      "Manage stress through relaxation techniques",
+      "Stay well-hydrated",
+      "Eat regular meals to avoid blood sugar drops",
+      "Limit caffeine and alcohol intake",
+      "Regular gentle exercise"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Brahmi",
+        "botanical_name": "Bacopa monnieri",
+        "usage": "Take Brahmi powder or capsules regularly for neurological support and stress reduction.",
+        "chemical_constituents": ["Bacosides", "Alkaloids", "Saponins"],
+        "medicinal_properties": ["Nervine tonic", "Adaptogenic", "Cognitive enhancer"]
+      },
+      {
+        "plant_name": "Jatamansi",
+        "botanical_name": "Nardostachys jatamansi",
+        "usage": "Use Jatamansi powder or oil for calming the nervous system and promoting sleep.",
+        "chemical_constituents": ["Jatamansone", "Valeranone", "Actinidine"],
+        "medicinal_properties": ["Nervine tonic", "Sedative", "Antispasmodic"]
+      },
+      {
+        "plant_name": "Ginger (Adrak)",
+        "botanical_name": "Zingiber officinale",
+        "usage": "Drink ginger tea at the onset of a migraine attack to help with nausea and pain.",
+        "chemical_constituents": ["Gingerol", "Shogaol", "Zingerone"],
+        "medicinal_properties": ["Anti-inflammatory", "Anti-emetic", "Analgesic"]
+      }
+    ],
+    "treatment_methods": [
+      "Shirodhara (oil pouring on the forehead) with specific oils",
+      "Nasya (nasal administration of medicated oils) for Vata pacification",
+      "Herbal formulations like Shirashooladi Vajra Rasa, Godanti Bhasma",
+      "Dietary modifications to avoid Pitta-aggravating foods (spicy, sour, fermented)",
+      "Abhyanga (head and foot massage) with specific oils",
+      "Yoga and pranayama for stress reduction"
+    ],
+    "possible_side_effects": [
+      "Some herbs may cause drowsiness; avoid driving or operating machinery after consumption.",
+      "Always consult an Ayurvedic physician for proper diagnosis and personalized treatment, especially for chronic conditions.",
+      "Ginger can cause heartburn in some individuals if taken in large quantities."
+    ],
+    "images": [
+      "images/migraine/person_headache.jpg",
+      "images/migraine/brain_aura.png",
+      "images/migraine/brahmi_plant.jpg"
+    ]
+  },
+  {
+    "disease_name": "Osteoarthritis",
+    "category": "Musculoskeletal",
+    "description": "Osteoarthritis (OA) is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage on the ends of your bones wears down over time. This can lead to pain, stiffness, and swelling in the affected joints. OA most commonly affects joints in your hands, knees, hips, and spine.",
+    "causes": [
+      "Aging (cartilage naturally wears down over time)",
+      "Joint injury or trauma",
+      "Obesity (puts extra stress on weight-bearing joints)",
+      "Repetitive stress on a joint (e.g., from certain occupations or sports)",
+      "Genetic predisposition",
+      "Bone deformities",
+      "Certain metabolic diseases (e.g., diabetes)"
+    ],
+    "symptoms": [
+      "Joint pain (often worse with activity and relieved by rest)",
+      "Stiffness (especially after inactivity or in the morning)",
+      "Tenderness when pressure is applied to the joint",
+      "Loss of flexibility (difficulty moving the joint through its full range of motion)",
+      "Grating sensation or clicking sound (crepitus) with joint movement",
+      "Swelling around the joint",
+      "Bone spurs (hard lumps that form around the affected joint)"
+    ],
+    "ayurvedic_view": "In Ayurveda, Osteoarthritis (Sandhivata) is primarily a Vata imbalance. Vata's dry and degenerative qualities lead to the depletion of Asthi Dhatu (bone tissue) and Majja Dhatu (bone marrow), causing dryness and degeneration in the joints. Accumulation of Ama can also contribute.",
+    "preventive_measures": [
+      "Maintain a healthy weight to reduce joint stress",
+      "Engage in low-impact exercises (swimming, cycling, walking)",
+      "Protect joints from injury",
+      "Eat a balanced diet rich in calcium and Vitamin D",
+      "Practice proper posture and body mechanics",
+      "Stay hydrated"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Guggul",
+        "botanical_name": "Commiphora mukul",
+        "usage": "Used in various Ayurvedic formulations for joint pain and inflammation (e.g., Yogaraja Guggul, Maharasnadi Kwath).",
+        "chemical_constituents": ["Guggulsterones", "Resins", "Volatile oils"],
+        "medicinal_properties": ["Anti-inflammatory", "Analgesic", "Lipid-lowering"]
+      },
+      {
+        "plant_name": "Boswellia (Shallaki)",
+        "botanical_name": "Boswellia serrata",
+        "usage": "Take Boswellia extract or powder as an anti-inflammatory for joint pain.",
+        "chemical_constituents": ["Boswellic acids", "Terpenes", "Resins"],
+        "medicinal_properties": ["Anti-inflammatory", "Analgesic", "Anti-arthritic"]
+      },
+      {
+        "plant_name": "Ashwagandha",
+        "botanical_name": "Withania somnifera",
+        "usage": "Use Ashwagandha root powder or capsules to reduce stress and support joint health.",
+        "chemical_constituents": ["Withanolides", "Alkaloids", "Saponins"],
+        "medicinal_properties": ["Anti-inflammatory", "Analgesic", "Adaptogenic", "Rejuvenative"]
+      }
+    ],
+    "treatment_methods": [
+      "Abhyanga (warm oil massage) with Vata-pacifying oils (e.g., Mahanarayana Taila)",
+      "Swedana (fomentation/steam therapy) to reduce stiffness",
+      "Panchakarma therapies like Basti (medicated enema) for Vata pacification",
+      "Herbal formulations like Rasnadi Kwath, Maharasnadi Kwath, Yogaraja Guggul",
+      "Gentle exercises, yoga, and physical therapy",
+      "Dietary changes to reduce Vata (warm, moist, nourishing foods)"
+    ],
+    "possible_side_effects": [
+      "Guggul can cause mild stomach upset or skin rash in some individuals.",
+      "Boswellia is generally well-tolerated but may cause digestive issues.",
+      "Always consult an Ayurvedic doctor for appropriate dosage and treatment plan, especially for chronic conditions."
+    ],
+    "images": [
+      "images/osteoarthritis/knee_pain.jpg",
+      "images/osteoarthritis/joint_cartilage.png",
+      "images/osteoarthritis/guggul_plant.jpg"
+    ]
+  },
+  {
+    "disease_name": "Gastroesophageal Reflux Disease (GERD)",
+    "category": "Digestive",
+    "description": "Gastroesophageal Reflux Disease (GERD) is a chronic digestive disease in which stomach acid or bile irritates the food pipe lining. This happens when the lower esophageal sphincter (LES) doesn't close properly, allowing stomach contents to flow back into the esophagus. Common symptoms include heartburn and acid regurgitation.",
+    "causes": [
+      "Hiatal hernia (stomach bulges into the chest)",
+      "Obesity",
+      "Pregnancy",
+      "Smoking",
+      "Certain foods and drinks (e.g., spicy foods, fatty foods, caffeine, alcohol, chocolate, citrus)",
+      "Large meals",
+      "Eating close to bedtime",
+      "Certain medications (e.g., aspirin, ibuprofen)"
+    ],
+    "symptoms": [
+      "Heartburn (a burning sensation in the chest, often after eating, worse at night or when lying down)",
+      "Regurgitation of food or sour liquid",
+      "Chest pain",
+      "Difficulty swallowing (dysphagia)",
+      "Cough",
+      "Hoarseness or sore throat",
+      "Sensation of a lump in the throat"
+    ],
+    "ayurvedic_view": "In Ayurveda, GERD is primarily a Pitta imbalance, often associated with a weakened Agni (digestive fire) and increased Ama (toxins). Excess Pitta leads to acidity and burning sensations, and impaired downward movement of Vata (Apana Vayu) can cause regurgitation.",
+    "preventive_measures": [
+      "Eat smaller, more frequent meals",
+      "Avoid trigger foods and drinks",
+      "Don't lie down for at least 2-3 hours after eating",
+      "Elevate the head of your bed",
+      "Maintain a healthy weight",
+      "Avoid smoking and limit alcohol",
+      "Wear loose-fitting clothing"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Licorice (Yashtimadhu)",
+        "botanical_name": "Glycyrrhiza glabra",
+        "usage": "Chew on a small piece of licorice root or consume licorice powder mixed with water to soothe the esophagus.",
+        "chemical_constituents": ["Glycyrrhizin", "Flavonoids", "Saponins"],
+        "medicinal_properties": ["Anti-inflammatory", "Demulcent", "Mucoprotective"]
+      },
+      {
+        "plant_name": "Fennel (Saunf)",
+        "botanical_name": "Foeniculum vulgare",
+        "usage": "Chew a teaspoon of roasted fennel seeds after meals, or drink fennel tea for digestive relief.",
+        "chemical_constituents": ["Anethole", "Fenchone", "Estragole"],
+        "medicinal_properties": ["Carminative", "Anti-spasmodic", "Digestive"]
+      },
+      {
+        "plant_name": "Coriander (Dhaniya)",
+        "botanical_name": "Coriandrum sativum",
+        "usage": "Drink coriander seed water (soaked overnight) or use fresh coriander juice to cool and reduce acidity.",
+        "chemical_constituents": ["Linalool", "Geraniol", "Terpenes"],
+        "medicinal_properties": ["Cooling", "Digestive", "Anti-inflammatory"]
+      }
+    ],
+    "treatment_methods": [
+      "Dietary modifications (avoiding Pitta-aggravating foods, small frequent meals)",
+      "Herbal formulations like Avipattikar Churna, Kamdudha Rasa, Sutshekhar Rasa",
+      "Shatavari or Amalaki to soothe irritated membranes",
+      "Sheetali and Sitkari pranayama for cooling the body",
+      "Virechana (purgation) for Pitta pacification under expert supervision",
+      "Mindful eating practices"
+    ],
+    "possible_side_effects": [
+      "Excessive long-term use of licorice containing glycyrrhizin can lead to elevated blood pressure; DGL (deglycyrrhizinated licorice) is safer for prolonged use.",
+      "Always consult an Ayurvedic practitioner for a proper diagnosis and treatment plan, especially for chronic conditions.",
+      "Some herbs may interact with conventional antacids or PPIs; inform your doctor."
+    ],
+    "images": [
+      "images/gerd/heartburn_man.jpg",
+      "images/gerd/stomach_esophagus.png",
+      "images/gerd/fennel_seeds.jpg"
+    ]
+  },
+  {
+    "disease_name": "Irritable Bowel Syndrome (IBS)",
+    "category": "Gastrointestinal",
+    "description": "Irritable Bowel Syndrome (IBS) is a common disorder that affects the large intestine. Symptoms include cramping, abdominal pain, bloating, gas, and diarrhea or constipation, or both. IBS is a chronic condition that you'll need to manage long term. It doesn't cause changes in bowel tissue or increase the risk of colorectal cancer.",
+    "causes": [
+      "Brain-gut axis dysfunction (abnormal nerve signals)",
+      "Muscle contractions in the intestine that are stronger or weaker than normal",
+      "Inflammation in the intestines (though not true inflammatory bowel disease)",
+      "Severe infection (e.g., gastroenteritis)",
+      "Changes in gut microbiota (dysbiosis)",
+      "Food sensitivities or intolerances",
+      "Stress and psychological factors (anxiety, depression)"
+    ],
+    "symptoms": [
+      "Abdominal pain or cramping, often relieved by a bowel movement",
+      "Bloating and gas",
+      "Diarrhea (IBS-D)",
+      "Constipation (IBS-C)",
+      "Alternating bouts of diarrhea and constipation (IBS-M)",
+      "Mucus in the stool",
+      "Feeling of incomplete bowel evacuation"
+    ],
+    "ayurvedic_view": "In Ayurveda, IBS (Grahani Roga) is primarily a Vata disorder, affecting Agni (digestive fire) and leading to Ama (toxin) formation. Imbalances in Pitta can manifest as diarrhea or burning, while Kapha can cause sluggish digestion or excessive mucus. The erratic nature of Vata is key to its fluctuating symptoms.",
+    "preventive_measures": [
+      "Identify and avoid trigger foods (e.g., high FODMAP foods, dairy, gluten for some)",
+      "Manage stress through yoga, meditation, and mindfulness",
+      "Ensure adequate fiber intake, but introduce gradually",
+      "Stay well-hydrated",
+      "Regular exercise",
+      "Eat regular, smaller meals and eat slowly"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Isabgol (Psyllium Husk)",
+        "botanical_name": "Plantago ovata",
+        "usage": "Mix 1-2 teaspoons of Isabgol husk in warm water or milk, especially useful for IBS-C and IBS-M.",
+        "chemical_constituents": ["Mucilage", "Hemicellulose", "Soluble fiber"],
+        "medicinal_properties": ["Bulk-forming laxative", "Prebiotic", "Stool regulator"]
+      },
+      {
+        "plant_name": "Ginger (Shunti)",
+        "botanical_name": "Zingiber officinale",
+        "usage": "Drink fresh ginger tea or add fresh ginger to meals to aid digestion and reduce bloating.",
+        "chemical_constituents": ["Gingerol", "Shogaol", "Zingerone"],
+        "medicinal_properties": ["Carminative", "Anti-inflammatory", "Prokinetic"]
+      },
+      {
+        "plant_name": "Fennel (Saunf)",
+        "botanical_name": "Foeniculum vulgare",
+        "usage": "Chew roasted fennel seeds after meals or drink fennel tea to reduce gas and bloating.",
+        "chemical_constituents": ["Anethole", "Fenchone", "Estragole"],
+        "medicinal_properties": ["Carminative", "Anti-spasmodic", "Digestive"]
+      }
+    ],
+    "treatment_methods": [
+      "Dietary modifications (personalized based on dosha and symptoms)",
+      "Stress management techniques (Pranayama, meditation)",
+      "Herbal formulations like Kutaja Ghan Vati, Bilwadi Churna, Chitrakadi Vati",
+      "Panchakarma therapies like Basti (medicated enema) for Vata regulation",
+      "Regular intake of buttermilk with a pinch of ginger and cumin",
+      "Avoiding cold, raw, and heavy foods"
+    ],
+    "possible_side_effects": [
+      "Isabgol should always be taken with sufficient water to prevent choking or intestinal obstruction.",
+      "Some herbs may cause temporary digestive discomfort as the body adjusts.",
+      "Always consult an Ayurvedic practitioner for personalized advice, as IBS management is highly individualized."
+    ],
+    "images": [
+      "images/ibs/abdominal_pain.jpg",
+      "images/ibs/gut_brain_connection.png",
+      "images/ibs/isabgol_husk.jpg"
+    ]
+  },
+  {
+    "disease_name": "Thyroid Dysfunction (Hypothyroidism)",
+    "category": "Endocrine",
+    "description": "Hypothyroidism is a condition in which your thyroid gland doesn't produce enough of certain crucial hormones. The thyroid gland is a small, butterfly-shaped gland located at the base of your neck, just below your Adam's apple. Thyroid hormones regulate your metabolism, so an underactive thyroid can slow down many bodily functions, leading to a range of symptoms.",
+    "causes": [
+      "Autoimmune disease (Hashimoto's thyroiditis - most common cause)",
+      "Thyroid surgery",
+      "Radiation therapy",
+      "Certain medications (e.g., lithium, amiodarone)",
+      "Iodine deficiency (less common in iodine-sufficient regions)",
+      "Congenital disease",
+      "Pituitary gland disorder"
+    ],
+    "symptoms": [
+      "Fatigue and sluggishness",
+      "Increased sensitivity to cold",
+      "Constipation",
+      "Dry skin",
+      "Weight gain",
+      "Puffy face",
+      "Hoarseness",
+      "Muscle weakness and aches",
+      "Elevated blood cholesterol level",
+      "Thinning hair",
+      "Depression",
+      "Impaired memory"
+    ],
+    "ayurvedic_view": "In Ayurveda, Hypothyroidism (Galaganda due to Kapha-Vata imbalance) is often considered a Kapha disorder affecting Agni (digestive fire) at both the systemic and cellular levels, leading to sluggish metabolism and accumulation of Ama. Vata imbalance can also contribute to dryness and fatigue.",
+    "preventive_measures": [
+      "Maintain a balanced diet with adequate iodine and selenium (from natural sources)",
+      "Manage stress effectively",
+      "Regular exercise",
+      "Avoid raw goitrogenic foods (e.g., raw broccoli, cabbage) in excess",
+      "Limit exposure to environmental toxins",
+      "Ensure proper sleep"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Guggul",
+        "botanical_name": "Commiphora mukul",
+        "usage": "Used in formulations like Kanchanar Guggul, known to stimulate thyroid function and reduce Kapha.",
+        "chemical_constituents": ["Guggulsterones", "Resins", "Volatile oils"],
+        "medicinal_properties": ["Thyroid stimulant", "Anti-inflammatory", "Metabolism booster"]
+      },
+      {
+        "plant_name": "Ashwagandha",
+        "botanical_name": "Withania somnifera",
+        "usage": "Take Ashwagandha root powder or capsules to reduce stress and support endocrine function.",
+        "chemical_constituents": ["Withanolides", "Alkaloids", "Saponins"],
+        "medicinal_properties": ["Adaptogenic", "Immunomodulatory", "Stress reducer"]
+      },
+      {
+        "plant_name": "Punarnava",
+        "botanical_name": "Boerhavia diffusa",
+        "usage": "Used for its diuretic and anti-inflammatory properties, often in formulations for edema and metabolic support.",
+        "chemical_constituents": ["Punarnavine", "Flavonoids", "Alkaloids"],
+        "medicinal_properties": ["Diuretic", "Anti-inflammatory", "Detoxifying"]
+      }
+    ],
+    "treatment_methods": [
+      "Panchakarma therapies like Virechana (purgation) and Basti (enema) for Ama elimination and Vata-Kapha balance",
+      "Herbal formulations like Kanchanar Guggul, Trikatu, Varunadi Kwath",
+      "Dietary adjustments (warm, light, easy-to-digest foods, avoiding cold/heavy/processed foods)",
+      "Regular exercise and yoga (especially Surya Namaskar, Sarvangasana)",
+      "Stress reduction and lifestyle modifications"
+    ],
+    "possible_side_effects": [
+      "Guggul can interact with thyroid medications; always consult your doctor before combining treatments.",
+      "Ashwagandha can slightly increase thyroid hormone levels; monitor thyroid function if on medication.",
+      "Ayurvedic treatment for hypothyroidism requires personalized approach and regular monitoring of thyroid levels."
+    ],
+    "images": [
+      "images/hypothyroidism/thyroid_gland.jpg",
+      "images/hypothyroidism/fatigue_woman.jpg",
+      "images/hypothyroidism/kanchanar_guggul.jpg"
+    ]
+  },
+  {
+    "disease_name": "Anxiety Disorder",
+    "category": "Mental Health/Neurological",
+    "description": "Anxiety disorder is a mental health condition characterized by feelings of worry, nervousness, or unease, typically about an event or something with an uncertain outcome. Unlike occasional anxiety, anxiety disorders involve excessive, intense, and persistent worry and fear about everyday situations, often accompanied by physical symptoms.",
+    "causes": [
+      "Brain chemistry imbalances (neurotransmitters like serotonin, norepinephrine)",
+      "Genetics (family history of anxiety disorders)",
+      "Personality factors (certain traits like shyness or perfectionism)",
+      "Stressful life events (trauma, loss, chronic illness)",
+      "Other medical conditions (e.g., thyroid problems, heart disease)",
+      "Substance abuse or withdrawal"
+    ],
+    "symptoms": [
+      "Feeling nervous, restless or tense",
+      "Having a sense of impending danger, panic or doom",
+      "Increased heart rate",
+      "Rapid breathing (hyperventilation)",
+      "Sweating",
+      "Trembling",
+      "Feeling weak or tired",
+      "Trouble concentrating or thinking about anything other than the present worry",
+      "Difficulty sleeping",
+      "Gastrointestinal problems (IBS-like symptoms)",
+      "Difficulty controlling worry",
+      "Urge to avoid things that trigger anxiety"
+    ],
+    "ayurvedic_view": "In Ayurveda, anxiety (Chitta Udvega / Manovaha Srotas Dushti) is primarily a Vata imbalance, particularly Prana Vata and Vyana Vata, which govern the nervous system and mental functions. Elevated Vata can lead to instability, restlessness, and fear. Pitta can cause irritability, while Kapha can lead to lethargy and attachment.",
+    "preventive_measures": [
+      "Regular meditation and mindfulness practices",
+      "Consistent exercise (yoga, walking, swimming)",
+      "Balanced diet, avoiding excessive stimulants (caffeine, sugar)",
+      "Adequate sleep",
+      "Limit alcohol and nicotine",
+      "Maintain social connections and hobbies",
+      "Stress management techniques"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Ashwagandha",
+        "botanical_name": "Withania somnifera",
+        "usage": "Take Ashwagandha root powder or capsules daily as an adaptogen to reduce stress and anxiety.",
+        "chemical_constituents": ["Withanolides", "Alkaloids", "Saponins"],
+        "medicinal_properties": ["Adaptogenic", "Anxiolytic", "Nervine tonic"]
+      },
+      {
+        "plant_name": "Brahmi",
+        "botanical_name": "Bacopa monnieri",
+        "usage": "Consume Brahmi powder, fresh juice, or capsules to improve cognitive function and reduce anxiety.",
+        "chemical_constituents": ["Bacosides", "Alkaloids", "Saponins"],
+        "medicinal_properties": ["Nervine tonic", "Memory enhancer", "Anxiolytic"]
+      },
+      {
+        "plant_name": "Jatamansi",
+        "botanical_name": "Nardostachys jatamansi",
+        "usage": "Use Jatamansi powder or oil, known for its calming and sedative effects, especially for sleep disturbances related to anxiety.",
+        "chemical_constituents": ["Jatamansone", "Valeranone", "Actinidine"],
+        "medicinal_properties": ["Sedative", "Anxiolytic", "Antispasmodic"]
+      }
+    ],
+    "treatment_methods": [
+      "Abhyanga (warm oil massage) with Vata-pacifying oils",
+      "Shirodhara (oil pouring on the forehead) to calm the mind",
+      "Nasya (nasal oiling) with specific oils (e.g., Anu Taila)",
+      "Herbal formulations like Saraswatarishta, Smriti Sagar Rasa",
+      "Pranayama (breathing exercises like Nadi Shodhana, Bhramari)",
+      "Meditation and counseling (Yoga Therapy, Cognitive Behavioral Therapy)",
+      "Light, warm, grounding diet to balance Vata"
+    ],
+    "possible_side_effects": [
+      "Some herbs may cause drowsiness; caution is advised when driving or operating machinery.",
+      "Always consult an Ayurvedic practitioner before starting herbal remedies, especially if on conventional psychiatric medications.",
+      "Self-treatment for anxiety disorders is not recommended; seek professional help."
+    ],
+    "images": [
+      "images/anxiety/anxious_woman.jpg",
+      "images/anxiety/meditation_pose.jpg",
+      "images/anxiety/ashwagandha_plant.jpg"
+    ]
+  },
+  {
+    "disease_name": "Dermatitis (Eczema)",
+    "category": "Dermatological/Skin",
+    "description": "Dermatitis, commonly known as eczema, is a condition that causes skin inflammation, leading to redness, itching, and sometimes blistering or scaling. Atopic dermatitis is the most common and chronic type of eczema, often starting in childhood. It is characterized by dry, itchy skin that can become red, inflamed, and thickened with repeated scratching.",
+    "causes": [
+      "Genetic predisposition (often runs in families)",
+      "Immune system dysfunction",
+      "Environmental triggers (allergens like pollen, dust mites, pet dander)",
+      "Irritants (soaps, detergents, certain fabrics, chemicals)",
+      "Food allergies or sensitivities (less common in adults)",
+      "Stress",
+      "Changes in climate (dry, cold weather)",
+      "Skin barrier dysfunction"
+    ],
+    "symptoms": [
+      "Itching (often intense, especially at night)",
+      "Red or brownish-gray patches",
+      "Small, raised bumps which may leak fluid and crust over when scratched",
+      "Thickened, cracked, scaly skin",
+      "Raw, sensitive, swollen skin from scratching",
+      "Dry skin"
+    ],
+    "ayurvedic_view": "In Ayurveda, skin conditions like dermatitis (Vicharchika / Kushtha) are primarily a Pitta and Kapha imbalance, often combined with vitiated Rakta Dhatu (blood tissue) and Ama (toxins). Pitta contributes to inflammation, redness, and burning, while Kapha leads to oozing, itching, and stickiness. Vata can cause dryness and scaling.",
+    "preventive_measures": [
+      "Moisturize skin regularly with natural emollients",
+      "Avoid harsh soaps and detergents; use mild, fragrance-free products",
+      "Identify and avoid triggers (allergens, irritants)",
+      "Wear soft, breathable fabrics (cotton)",
+      "Take lukewarm baths/showers and pat dry",
+      "Manage stress",
+      "Maintain a balanced diet and stay hydrated"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Neem",
+        "botanical_name": "Azadirachta indica",
+        "usage": "Apply diluted Neem oil topically, or take Neem leaf powder/capsules for its purifying properties.",
+        "chemical_constituents": ["Azadirachtin", "Nimbidin", "Quercetin"],
+        "medicinal_properties": ["Anti-inflammatory", "Antipruritic", "Antimicrobial", "Blood purifier"]
+      },
+      {
+        "plant_name": "Turmeric (Haridra)",
+        "botanical_name": "Curcuma longa",
+        "usage": "Apply a paste of turmeric and neem to affected areas, or consume turmeric with warm milk for internal purification.",
+        "chemical_constituents": ["Curcumin", "Volatile oils", "Resins"],
+        "medicinal_properties": ["Anti-inflammatory", "Antioxidant", "Antimicrobial", "Wound healing"]
+      },
+      {
+        "plant_name": "Manjistha",
+        "botanical_name": "Rubia cordifolia",
+        "usage": "Take Manjistha powder or extract as part of Ayurvedic formulations for blood purification and skin health.",
+        "chemical_constituents": ["Anthraquinones", "Triterpenoids", "Flavonoids"],
+        "medicinal_properties": ["Blood purifier", "Anti-inflammatory", "Antioxidant", "Lymphatic cleanser"]
+      }
+    ],
+    "treatment_methods": [
+      "Panchakarma therapies like Virechana (purgation) for Pitta and Ama elimination",
+      "Local application of medicated oils (e.g., Mahamarichyadi Taila, Jatyadi Taila)",
+      "Herbal formulations like Arogyavardhini Vati, Kaishore Guggul, Khadirarishta",
+      "Dietary modifications (avoiding spicy, sour, fermented, and incompatible foods)",
+      "Stress management techniques",
+      "External cleansing with herbal decoctions"
+    ],
+    "possible_side_effects": [
+      "Topical application of some herbs may cause temporary stinging or irritation in sensitive individuals.",
+      "Internal use of blood-purifying herbs may require guidance, especially if on other medications.",
+      "Manjistha can sometimes temporarily turn urine reddish-brown, which is harmless."
+    ],
+    "images": [
+      "images/dermatitis/eczema_arm.jpg",
+      "images/dermatitis/skin_barrier_diagram.png",
+      "images/dermatitis/neem_leaves.jpg"
+    ]
+  },
+  {
+    "disease_name": "Rheumatoid Arthritis (RA)",
+    "category": "Autoimmune/Musculoskeletal",
+    "description": "Rheumatoid Arthritis (RA) is a chronic inflammatory disorder that can affect more than just your joints. In some people, the condition can damage a wide variety of body systems, including the skin, eyes, lungs, heart and blood vessels. Unlike the wear-and-tear damage of osteoarthritis, rheumatoid arthritis affects the lining of your joints, causing painful swelling that can eventually result in bone erosion and joint deformity.",
+    "causes": [
+      "Autoimmune response (immune system attacks its own tissues)",
+      "Genetic predisposition (certain gene markers like HLA-DR4)",
+      "Environmental triggers (e.g., certain infections, smoking)",
+      "Hormonal factors (more common in women)",
+      "Gut dysbiosis (emerging research)"
+    ],
+    "symptoms": [
+      "Tender, warm, swollen joints (often small joints of hands and feet)",
+      "Morning stiffness (lasts for hours)",
+      "Fatigue",
+      "Fever",
+      "Loss of appetite",
+      "Rheumatoid nodules (firm lumps under the skin)",
+      "Joint deformity over time",
+      "Symmetrical involvement of joints"
+    ],
+    "ayurvedic_view": "In Ayurveda, Rheumatoid Arthritis (Amavata) is considered a complex condition caused by vitiated Vata combined with Ama (undigested toxins). Ama accumulates in the joints and channels, obstructing circulation and causing inflammation and pain. Pitta can also be involved, leading to burning, while Kapha can cause swelling and stiffness.",
+    "preventive_measures": [
+      "Maintain a healthy weight",
+      "Balanced, anti-inflammatory diet (avoiding processed foods, refined sugar)",
+      "Regular gentle exercise (yoga, stretching)",
+      "Manage stress effectively",
+      "Quit smoking",
+      "Maintain good gut health"
+    ],
+    "plants_used": [
+      {
+        "plant_name": "Guggul",
+        "botanical_name": "Commiphora mukul",
+        "usage": "Used in Ayurvedic formulations like Yogaraja Guggul, Maharasnadi Kwath, known for their anti-inflammatory and Ama-reducing properties.",
+        "chemical_constituents": ["Guggulsterones", "Resins", "Volatile oils"],
+        "medicinal_properties": ["Anti-inflammatory", "Analgesic", "Ama-pachana (toxin-digesting)"]
+      },
+      {
+        "plant_name": "Giloy (Guduchi)",
+        "botanical_name": "Tinospora cordifolia",
+        "usage": "Consume Giloy juice, powder, or decoction for its immunomodulatory and anti-inflammatory effects.",
+        "chemical_constituents": ["Berberine", "Tinocordifolioside", "Immunomodulatory alkaloids"],
+        "medicinal_properties": ["Immunomodulatory", "Anti-inflammatory", "Anti-arthritic", "Ama-pachana"]
+      },
+      {
+        "plant_name": "Rasna",
+        "botanical_name": "Pluchea lanceolata",
+        "usage": "Used in various Ayurvedic formulations for joint pain and inflammation, particularly for Vata disorders.",
+        "chemical_constituents": ["Flavonoids", "Alkaloids", "Steroids"],
+        "medicinal_properties": ["Anti-inflammatory", "Analgesic", "Anti-rheumatic"]
+      }
+    ],
+    "treatment_methods": [
+      "Langhana (fasting) or light diet to reduce Ama",
+      "Deepana-Pachana (kindling digestive fire and digesting Ama) with herbs like ginger, pippali",
+      "Panchakarma therapies (Virechana, Basti, Swedana) tailored to individual needs",
+      "Abhyanga (warm oil massage) with specific medicated oils (e.g., Mahanarayana Taila, Mahamasha Taila)",
+      "Herbal formulations like Amavatari Rasa, Rasnadi Guggul, Simhanada Guggul",
+      "Specific yoga asanas and gentle exercises to maintain joint mobility",
+      "Avoiding incompatible food combinations (Viruddha Ahara)"
+    ],
+    "possible_side_effects": [
+      "Some herbs can interact with conventional immunosuppressants or NSAIDs; consult your doctor.",
+      "Panchakarma therapies require strict adherence to dietary and lifestyle guidelines post-therapy.",
+      "Ayurvedic treatment for RA is complex and requires guidance from an experienced practitioner."
+    ],
+    "images": [
+      "images/rheumatoid_arthritis/swollen_hands.jpg",
+      "images/rheumatoid_arthritis/autoimmune_inflammation.png",
+      "images/rheumatoid_arthritis/giloy_plant.jpg"
+    ]
+  }
+
+]

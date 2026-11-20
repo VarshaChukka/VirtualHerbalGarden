@@ -1,0 +1,60 @@
+{
+    "Common_Cold": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg"
+    ],
+    "Influenza_Flu": [
+      "flu_symptoms.jpg",
+      "flu_virus.jpg"
+    ],
+    "Allergic_Rhinitis_Hay_Fever": [
+      "hay_fever_symptoms.jpg",
+      "pollen_allergy.jpg"
+    ],
+    "Bronchial_Asthma": [
+      "asthma_inhaler.jpg",
+      "asthma_symptoms.jpg"
+    ],
+    "Type_2_Diabetes_Mellitus": [
+      "diabetes_blood_test.jpg",
+      "diabetes_food_chart.jpg"
+    ],
+    "Hypertension_High_Blood_Pressure": [
+      "blood_pressure_monitor.jpg",
+      "hypertension_heart.jpg"
+    ],
+    "Migraine": [
+      "migraine_pain.jpg",
+      "migraine_brain_scan.jpg"
+    ],
+    "Osteoarthritis": [
+      "osteoarthritis_knee.jpg",
+      "joint_pain.jpg"
+    ],
+    "Gastroesophageal_Reflux_Disease_GERD": [
+      "gerd_stomach.jpg",
+      "acid_reflux.jpg"
+    ],
+    "Irritable_Bowel_Syndrome_IBS": [
+      "ibs_stomach_pain.jpg",
+      "digestive_system.jpg"
+    ],
+    "Thyroid_Dysfunction_Hypothyroidism": [
+      "thyroid_gland.jpg",
+      "hypothyroidism_symptoms.jpg"
+    ],
+    "Anxiety_Disorder": [
+      "anxiety_stress.jpg",
+      "mental_health.jpg"
+    ],
+    "Dermatitis_Eczema": [
+      "eczema_skin.jpg",
+      "skin_inflammation.jpg"
+    ],
+    "Rheumatoid_Arthritis_RA": [
+      "rheumatoid_arthritis_joint.jpg",
+      "inflammation.jpg"
+    ]
+  }
+  
